@@ -7,6 +7,7 @@ Free tier of Heroku Dynos, Postgres and Data for Redis will no longer be availab
 | [alwaysdata.com](https://www.alwaysdata.com/en/) | All your services in one place. |
 | [argonaut.dev](https://www.argonaut.dev/) | Deploy apps and infrastructure on your cloud in minutes. Support for custom and third-party app deployments on Kubernetes and Lambda environments. |
 | [cockroachlabs.cloud](https://cockroachlabs.cloud/) | Database - CockroachDB Serverless is a next-generation PostgreSQL, with consumption-based, truly elastic scaling and pricing. It has a free tier and no credit card is needed for signing up. |
+ [controlplane.com](https://controlplane.com/) | Control Plane provides a free compute tier. It lets you run Docker conatiners across any cloud, even on-prem. Email support@controlplane.com to get a free tier token |
 | [cloud66.com](https://www.cloud66.com/) | Cloud 66 gives you everything you need to build, deploy and grow your applications on any cloud, without the headache of the "server stuff" |
 | [dokku.com](https://dokku.com/) | An open source PAAS alternative to Heroku. |
 | [domcloud.co](https://domcloud.co/) | It's like those modern hosting platforms, but for the old school. |
