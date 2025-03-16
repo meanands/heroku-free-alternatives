@@ -16,4 +16,5 @@ Free tier of Heroku Dynos, Postgres and Data for Redis will no longer be availab
 | [northflank.com](https://www.northflank.com/) | Deploy any code, job, or database in seconds. |
 | [qoddi.com](https://qoddi.com/) | Qoddi is a fully managed App Hosting Platform running on a tier 1 network at 10% of the cost of similar solutions. |
 | [render.com](https://render.com/) | One of the top Heroku alternatives with a free plan to get started. |
+| [vercel.com](https://vercel.com/) | Vercel provides a cloud platform for static sites and frontend frameworks, with a free tier offering automatic deployments and continuous integration. |
 | [withcoherence.com](https://www.withcoherence.com/) | Coherence automates DevOps for early stage teams laser focused on customer value. |
